@@ -22,3 +22,28 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+
+# RAILS CRUD
+
+## Data Layer
+1. Create the empty DB (automatically by rails new)
+2. Create migration files/model 'rails g model Restaurant name:string rating:integer'
+3. Migrate 'rails db:migrate'
+4. Validations
+5. Seed 'rails db:seed'
+
+## Route/Controller/View
+1. Routes
+2. Controller
+3. View
+
+### Create
+
+### Read
+a. Read all
+b. Read one (details)
+
+### Update
+
+### Delete
